@@ -1,0 +1,31 @@
+9
+
+dir
+8
+svn+ssh://svn.beckproduct.com/svnroot/towers_of_hanoi/trunk/src/main/com
+svn+ssh://svn.beckproduct.com/svnroot/towers_of_hanoi
+
+
+
+2008-03-06T12:36:01.554892Z
+8
+jbeck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73f85dd6-c669-4749-85d5-9e3bf4ec4412
+
+beckproduct
+dir
+
