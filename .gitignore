@@ -1,4 +1,3 @@
+.idea
 build
-towers-of-hanoi.iml
-towers-of-hanoi.ipr
-towers-of-hanoi.iws
+**/*.iml
